@@ -13,7 +13,7 @@ Achieve_quick_start provides a configuration / startup file for Achieve (HTTP/S/
 <h3>Quick Start</h3>
 <p>The quick start file is configured to use achieve_rooms with the WS websocket app and Achieve server. To learn to customize for other uses, visit the 
 npm pages for each application.</p>
-<h3>Using achieve_rooms</h3>
+<h3>Using this quick start file</h3>
 <p>Read the quick start at <a href="https://www.npmjs.com/package/achieve_rooms">achieve_rooms</a></p>
 <h3>The other components</h3>
 <p>Achieve is a modern, high-performance, developer-friendly HTTP/S/2 web server. WS is advertised as being the fastest websocket server 
