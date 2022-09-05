@@ -8,6 +8,6 @@ Achieve_quick_start provides a configuration / startup file for Achieve (HTTP/S/
 <li><a href="https://nodejs.org/en/download/">Node.js</a> installed.</li>
 <li><a href="https://www.npmjs.com/package/achieve">Install Achieve</a> for HTTP/S/2.</li>
 <li><a href="https://www.npmjs.com/package/ws">Install WS</a> for Websockets.</li>
-<li><a href="https://www.npmjs.com/package/ws">Install rooms</a></li>
+<li><a href="">Install rooms</a></li>
 </ul>
 </html>
