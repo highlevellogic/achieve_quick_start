@@ -2,7 +2,7 @@ const achieve = require('achieve');
 const WebSocket = require('ws');
 const url = require('url');
 const fs = require('fs');
-const rooms = require('./rooms/rooms');
+const rooms = require('achieve_rooms');
 
 // You can set place your app components anywhere, by setting the root path.
 // achieve.setAppPath("C:/programs/tomcat9/webapps");
