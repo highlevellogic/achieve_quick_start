@@ -27,4 +27,7 @@ Room information is never needed with any message you send.</p>
 <p>Achieve is a modern, high-performance, developer-friendly HTTP/S/2 web server. WS is advertised as being the fastest websocket server 
 available for node. The quick start file mentioned above uses the "noserver" option for WS, which means that Achieve and WS use the same 
 port numbers. This avoids problems with CORS. I have been using this combination for years, with great satisfaction.</p>
+<h3>Copyright and License</h3>
+<p>copyright © 2022, Roger F. Gay, may be freely distributed with the MIT license</p>
+</section>
 </html>
