@@ -5,7 +5,7 @@ const fs = require('fs');
 const rooms = require('achieve_rooms');
 
 // You can set place your app components anywhere, by setting the root path.
-// achieve.setAppPath("C:/programs/tomcat9/webapps");
+// achieve.setAppPath("C:/webapps");
 
 /*
 // To use HTTPS or HTTP2, you need to have certificates.
